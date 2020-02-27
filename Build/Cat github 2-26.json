@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Cat attack good",
+"productVersion": "0.1",
+"dataUrl": "Cat github 2-26.data.unityweb",
+"wasmCodeUrl": "Cat github 2-26.wasm.code.unityweb",
+"wasmFrameworkUrl": "Cat github 2-26.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.19f1"
+}
